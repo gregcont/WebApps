@@ -1,0 +1,5 @@
+{
+  "name": "Team Time Batch Renamer",
+  "description": "An athletic, minimalist tool for generating Windows CMD rename commands for sports apparel collections, featuring theme support and custom list generation.",
+  "requestFramePermissions": []
+}
